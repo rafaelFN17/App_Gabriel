@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Projeto Gabriel</string>
+
+    <string name="email_password_field_required">Os campos de email e senha são obrigatórios</string>
+    <string name="email_invalid">E-mail inválido</string>
+    <string name="welcome_app">Bem Vindo!</string>
+    <string name="welcome_message_app"> Controle suas contas e gastos com nosso App</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="enter">Acessar</string>
 </resources>
